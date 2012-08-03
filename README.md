@@ -1,3 +1,6 @@
+TODO: add FreeNAS and Raspbian templates.  These may not be useful for Vagrant, but being able to automate the build of a FreeNAS or a Raspbian install could still be very useful!
+
+
 **VeeWee:** the tool to easily build vagrant base boxes or kvm,virtualbox and fusion images
 
 Vagrant is a great tool to test new things or changes in a virtual machine(Virtualbox) using either chef or puppet.
